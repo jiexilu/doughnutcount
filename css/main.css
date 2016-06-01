@@ -22,9 +22,15 @@ input {
 	padding:12px 20px;
 }
 
+/*donut stuff*/
+
 .emoji {
     width: 1.5em;
     height: 1.5em;
     display: inline-block;
     margin-bottom: -0.25em;
+}
+
+#doughnutCount {
+	padding:0 10% 0 10%;
 }
