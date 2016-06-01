@@ -1,3 +1,27 @@
+body {
+	background: url(../images/mt-bg.png) no-repeat center center fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	font-family: 'Oswald', sans-serif;
+	padding:5% 0 0 0;
+	text-align:center;
+}
+
+h2 {
+	font-size:50px;
+}
+
+p {
+	font-size:30px;
+}
+
+input {
+	width:30%;
+	padding:12px 20px;
+}
+
 .emoji {
     width: 1.5em;
     height: 1.5em;
